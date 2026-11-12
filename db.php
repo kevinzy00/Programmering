@@ -4,8 +4,8 @@
 $host = "b-studentsql-1.usn.no";
 $dbname = "keboe7753";
 
-$username = getenv("DB_USER");
-$password = getenv("DB_PASSWORD");
+$username = getenv(" keboe7753");
+$password = getenv("8a1bkeboe7753");
 
 try {
     $pdo = new PDO(
