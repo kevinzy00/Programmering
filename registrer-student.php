@@ -42,7 +42,7 @@
 
   </form>
 
-  <p><a href="index.php">Tilbake til hovedmenyen</a></p>
+ <a href="index.php"> <strong>Tilbake til start</strong></a>
 
 </body>
 
