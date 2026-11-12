@@ -26,6 +26,8 @@
     <input type="reset" value="Nullstill">
   </form>
 
+  <br><br>
+
   <a href="index.php"> <strong>Tilbake til start</strong></a>
 
 </body>
